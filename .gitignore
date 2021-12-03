@@ -1,0 +1,13 @@
+*.pyc
+.idea
+*.zip
+*.exe
+.vscode
+temp
+*.DS_Store
+*.log
+*.lock
+venv/
+nemo_python_db.egg-info/
+build/
+dist/
